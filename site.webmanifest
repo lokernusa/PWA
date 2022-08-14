@@ -3,20 +3,20 @@
     "short_name": "Lokernusa",
     "icons": [
         {
-            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKeLAPBFS_YFLlx9T0S9aLcAVYsvLpD9K3CXvckKVR2I3oF6HatPYlKYIYUUOQ_ZomhXupPkxnDL9kWHWGMW6WAKxvHUhCcrtz9WlGYAMYqtCbFTmsImOUuUPBhSXzJJ6AR822FK9qSPhk74lT03G345-z_Q95N-bvdznRRqt8yLVd7AGNhaQsbq4UuQ/s1600/android-chrome-192x192.png",
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3XfCvoHgdp8tR1qmQgRLAVJzzJ_6nL6dddC1sSkcL-G_xtBwPg0zhEzUqY8CiBtdjISny94IWf2BZQlLTSomyNvs9A2Lpn5uofRBgIwqNLveqOddllV0ovWHxeC-J-0w0S1vN8CxuBJ1_gerSn2PbkPlDUAfSiJpd85c8Vv6ux7fGsrNYluXCUEh-3g/s1600/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any maskable"
         },
         {
-            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwpjucqQokOeLI5OPzuR7jnBMh2TpgVFMAFsf3S8j-IW96vxv6V4rZzrxzfcKmvu7xrqXkmC5eQMj83pJwhhYB7858uXy-ZPw75m65_IXs8rDbyBeC430dXSjYrjLmtvd_p6PC9pi_KkI_v57Ryqz2m5KksHbeIsClzrI5FDX5AdKF8CIY3MWSOTY_hA/s320/android-chrome-512x512.png",
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJuKs0vXQOwvXjOI1qzkbsWDUJgmleU4-C0ewTQQ_05DoHwvjCdM9KiGySD5t1XfuKBlmc187_qS-6nRb54uld6IwKVSY6FqXt4Rnd2yOpOhDDP3GO_L5f3G-0Ph4LCdXfT2tj2S-rG7JajK2-hXUcPWrMMm-7S-KQgRCmf5wMkEf1YV9V1xsuYWyULw/s320/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any maskable"
         }
     ],
-    "theme_color": "#0f9d58",
-    "background_color": "#0f9d58",
+    "theme_color": "#1bac4b",
+    "background_color": "#1bac4b",
     "display": "standalone",
     "prefer_related_applications": false,
   "start_url": "https://www.lokernusa.com"
