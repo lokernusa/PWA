@@ -5,8 +5,8 @@
   "prefer_related_applications": "false",
   "start_url": "https://www.lokernusa.com",
   "scope": "/",
-  "background_color": "#fff",
-  "theme_color": "#3291d1",
+  "background_color": "#0f9d58",
+  "theme_color": "#0f9d58",
   "description": "Situs website lowongan kerja nusantara, info magang & beasiswa di Indonesia",
   "lang": "id",
   "icons": [
